@@ -37,6 +37,9 @@
     <Content Include="default.multiplier">
       <Generator>ImageMultiplierGenerator</Generator>
     </Content>
+    <Content Include="Template.multiplier">
+      <Generator>ImageMultiplierGenerator</Generator>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <None Include="icon.svg" />

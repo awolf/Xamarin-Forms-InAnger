@@ -7,4 +7,4 @@
 { type: 'iosIcon', width: 120, path: 'iOS/Resources/{0}60@2x' }
 { type: 'iosIcon', width: 180, path: 'iOS/Resources/{0}60@3x' }
 
-{ process: 'icon.svg', as: ['AndroidIcon', 'iosIcon'] }
+{ process: 'icon.svg', as: ['AndroidIcon', 'iosIcon'] } 

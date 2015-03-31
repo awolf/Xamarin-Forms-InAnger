@@ -44,7 +44,7 @@
 		<string>Icon-Small-40</string>
 		<string>Icon-Small@3x</string>
 		<string>Icon-60@2x</string>
-		<string>icon40@2x</string>
+		<string>Icon-Small-40@2x</string>
 	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
