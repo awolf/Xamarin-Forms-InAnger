@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="144px" height="144px" viewBox="0 0 144 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="logo-svg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icon" sketch:type="MSLayerGroup">
+            <ellipse id="Oval-1" fill="#0F4C82" sketch:type="MSShapeGroup" cx="71.7374944" cy="72" rx="71.5034483" ry="72"></ellipse>
+            <text id="{}" sketch:type="MSTextLayer" font-family="Avenir Next" font-size="93.2110092" font-style="italic" font-weight="473" letter-spacing="5" fill="#FFFFFF">
+                <tspan x="41.3152837" y="95">{</tspan>
+                <tspan x="75.6767516" y="95">}</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -38,4 +38,7 @@
       <Generator>ImageMultiplierGenerator</Generator>
     </Content>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="icon.svg" />
+  </ItemGroup>
 </Project>
