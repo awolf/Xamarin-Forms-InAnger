@@ -10,5 +10,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)InAnger.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PhoenixPeaks\PhoenixPeaksPage.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)PhoenixPeaks\" />
   </ItemGroup>
 </Project>

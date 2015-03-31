@@ -103,11 +103,13 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\icon60%403x.png" />
-    <BundleResource Include="Resources\Icon-60%402x.png" />
     <BundleResource Include="Resources\Default.png" />
     <BundleResource Include="Resources\Default%402x.png" />
     <BundleResource Include="Resources\Default-568h%402x.png" />
-    <BundleResource Include="Resources\Icon-Small-40%402x.png" />
+    <BundleResource Include="Resources\southmountain.jpg" />
+    <BundleResource Include="Resources\pin.png" />
+    <BundleResource Include="Resources\pin%402x.png" />
+    <BundleResource Include="Resources\pin%403x.png" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />

@@ -1,10 +1,21 @@
-﻿{ type: 'AndroidIcon', width: 96, color: '#f80c12', path: 'Droid/Resources/drawable/{0}' }
-{ type: 'AndroidIcon', width: 72, color: '#f80c12', path: 'Droid/Resources/drawable-hdpi/{0}' }
-{ type: 'AndroidIcon', width: 96, color: '#f80c12', path: 'Droid/Resources/drawable-xhdpi/{0}' }
-{ type: 'AndroidIcon', width: 144, color: '#f80c12', path: 'Droid/Resources/drawable-xxhdpi/{0}' }
+﻿{ type: 'AndroidAppIcon', width: 96, path: 'Droid/Resources/drawable/{0}' }
+{ type: 'AndroidAppIcon', width: 72, path: 'Droid/Resources/drawable-hdpi/{0}' }
+{ type: 'AndroidAppIcon', width: 96, path: 'Droid/Resources/drawable-xhdpi/{0}' }
+{ type: 'AndroidAppIcon', width: 144, path: 'Droid/Resources/drawable-xxhdpi/{0}' }
 
-{ type: 'iosIcon', width:  80, path: 'iOS/Resources/{0}40@2x' }
-{ type: 'iosIcon', width: 120, path: 'iOS/Resources/{0}60@2x' }
-{ type: 'iosIcon', width: 180, path: 'iOS/Resources/{0}60@3x' }
+{ type: 'iosAppIcon', width:  80, path: 'iOS/Resources/{0}40@2x' }
+{ type: 'iosAppIcon', width: 120, path: 'iOS/Resources/{0}60@2x' }
+{ type: 'iosAppIcon', width: 180, path: 'iOS/Resources/{0}60@3x' }
 
-{ process: 'icon.svg', as: ['AndroidIcon', 'iosIcon'] } 
+{ process: 'icon.svg', as: ['AndroidAppIcon', 'iosAppIcon'] } 
+
+{ type: 'androidIcon', width: 72, path: 'Droid/Resources/drawable/{0}' }
+{ type: 'androidIcon', width: 48, path: 'Droid/Resources/drawable-hdpi/{0}' }
+{ type: 'androidIcon', width: 72, path: 'Droid/Resources/drawable-xhdpi/{0}' }
+{ type: 'androidIcon', width: 96, path: 'Droid/Resources/drawable-xxhdpi/{0}' }
+
+{ type: 'iosIcon', width: 30, path: 'iOS/Resources/{0}' } 
+{ type: 'iosIcon', width: 60, path: 'iOS/Resources/{0}@2x' }
+{ type: 'iosIcon', width: 90, path: 'iOS/Resources/{0}@3x' }
+
+{ process: 'Icons/*.svg', as: ['androidIcon', 'iosIcon'] }  

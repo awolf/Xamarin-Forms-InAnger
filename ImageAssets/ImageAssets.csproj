@@ -43,5 +43,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="icon.svg" />
+    <None Include="Icons\pin.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Icons\" />
   </ItemGroup>
 </Project>
