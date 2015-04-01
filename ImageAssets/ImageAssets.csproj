@@ -44,6 +44,7 @@
   <ItemGroup>
     <None Include="icon.svg" />
     <None Include="Icons\pin.svg" />
+    <None Include="Icons\settings.svg" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Icons\" />

@@ -110,6 +110,9 @@
     <BundleResource Include="Resources\pin.png" />
     <BundleResource Include="Resources\pin%402x.png" />
     <BundleResource Include="Resources\pin%403x.png" />
+    <BundleResource Include="Resources\settings.png" />
+    <BundleResource Include="Resources\settings%402x.png" />
+    <BundleResource Include="Resources\settings%403x.png" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />

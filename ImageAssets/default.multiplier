@@ -1,4 +1,5 @@
-﻿{ type: 'AndroidAppIcon', width: 96, path: 'Droid/Resources/drawable/{0}' }
+﻿
+{ type: 'AndroidAppIcon', width: 96, path: 'Droid/Resources/drawable/{0}' }
 { type: 'AndroidAppIcon', width: 72, path: 'Droid/Resources/drawable-hdpi/{0}' }
 { type: 'AndroidAppIcon', width: 96, path: 'Droid/Resources/drawable-xhdpi/{0}' }
 { type: 'AndroidAppIcon', width: 144, path: 'Droid/Resources/drawable-xxhdpi/{0}' }
@@ -18,4 +19,4 @@
 { type: 'iosIcon', width: 60, path: 'iOS/Resources/{0}@2x' }
 { type: 'iosIcon', width: 90, path: 'iOS/Resources/{0}@3x' }
 
-{ process: 'Icons/*.svg', as: ['androidIcon', 'iosIcon'] }  
+{ process: 'Icons/*.svg', as: ['androidIcon', 'iosIcon'] }       

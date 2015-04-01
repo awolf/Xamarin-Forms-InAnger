@@ -83,6 +83,10 @@
     <AndroidResource Include="Resources\drawable-hdpi\pin.png" />
     <AndroidResource Include="Resources\drawable-xhdpi\pin.png" />
     <AndroidResource Include="Resources\drawable-xxhdpi\pin.png" />
+    <AndroidResource Include="Resources\drawable\settings.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\settings.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\settings.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\settings.png" />
   </ItemGroup>
   <Import Project="..\InAnger\InAnger.projitems" Label="Shared" Condition="Exists('..\InAnger\InAnger.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
