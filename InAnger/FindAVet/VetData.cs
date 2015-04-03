@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Xamarin.Forms;
 
-namespace InAnger
+namespace InAnger.FindAVet
 {
 	public static class VetData
 	{

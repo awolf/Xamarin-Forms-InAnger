@@ -1,9 +1,5 @@
 ﻿using System;
-
 using Xamarin.Forms;
-using InAnger.PhoenixPeaks;
-using InAnger.Jobbberr;
-using InAnger.Vets;
 
 namespace InAnger
 {
@@ -13,9 +9,9 @@ namespace InAnger
 		{
 			
 			MainPage = 
-				//new PhoenixPeaksPage ();
-				//new JobbberrPage();
-				VetsApp.GetMainPage();
+				//new InAnger.PhoenixPeaks.PhoenixPeaksPage ();
+				//new InAnger.JobbberrJobbberrPage();
+				InAnger.FindAVet.FindAVetApp.GetMainPage();
 		}
 	}
 }

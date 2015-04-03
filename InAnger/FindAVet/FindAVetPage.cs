@@ -4,13 +4,13 @@ using Xamarin.Forms;
 using System.Collections.Generic;
 using ImageCircle.Forms.Plugin.Abstractions;
 
-namespace InAnger.Vets
+namespace InAnger.FindAVet
 {
-	public class VetPage : ContentPage
+	public class FindAVetPage : ContentPage
 	{
 		public static Color BrandColor = Color.FromHex ("#F2995D");
 
-		public VetPage ()
+		public FindAVetPage ()
 		{
 			Title = "Choose a Vet";
 			var searchBar = new SearchBar { 

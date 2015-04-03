@@ -15,7 +15,7 @@ What can a design conscious developer do when faced with the possibility of a ba
 
 ##UI Samples
 
-* Choose a Vet
+* Find a Vet
 * Phoenix Peaks
 * Jobbberr
 

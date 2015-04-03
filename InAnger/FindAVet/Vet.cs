@@ -1,7 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 
-namespace InAnger
+namespace InAnger.FindAVet
 {
 	public class Vet
 	{

@@ -21,15 +21,15 @@
     <Compile Include="$(MSBuildThisFileDirectory)Jobbberr\StatusBarView.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Jobbberr\SyncSliderView.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Jobbberr\SyncView.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Vets\VetPage.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Vets\VetView.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Vets\Vet.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Vets\VetData.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Vets\VetsApp.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FindAVet\VetView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FindAVet\Vet.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FindAVet\VetData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FindAVet\FindAVetPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FindAVet\FindAVetApp.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)PhoenixPeaks\" />
     <Folder Include="$(MSBuildThisFileDirectory)Jobbberr\" />
-    <Folder Include="$(MSBuildThisFileDirectory)Vets\" />
+    <Folder Include="$(MSBuildThisFileDirectory)FindAVet\" />
   </ItemGroup>
 </Project>

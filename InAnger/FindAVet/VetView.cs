@@ -2,7 +2,7 @@
 using Xamarin.Forms;
 using ImageCircle.Forms.Plugin.Abstractions;
 
-namespace InAnger
+namespace InAnger.FindAVet
 {
 	public class VetCell:ViewCell
 	{
