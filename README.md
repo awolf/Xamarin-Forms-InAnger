@@ -15,7 +15,8 @@ What can a design conscious developer do when faced with the possibility of a ba
 
 ##UI Samples
 
+* Choose a Vet
 * Phoenix Peaks
 * Jobbberr
 
-![Xamarin.Forms in Anger picture strip] (https://www.SyntaxIsMyUI.com/wp-content/uploads/2015/04/InAnger-Strip.jpg)
+![Xamarin.Forms in Anger picture strip] (https://www.SyntaxIsMyUI.com/wp-content/uploads/2015/04/InAnger-Strip-3.jpg)

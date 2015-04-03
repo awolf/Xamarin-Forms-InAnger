@@ -3,6 +3,7 @@
 using Xamarin.Forms;
 using InAnger.PhoenixPeaks;
 using InAnger.Jobbberr;
+using InAnger.Vets;
 
 namespace InAnger
 {
@@ -13,7 +14,8 @@ namespace InAnger
 			
 			MainPage = 
 				//new PhoenixPeaksPage ();
-				new JobbberrPage();
+				//new JobbberrPage();
+				VetsApp.GetMainPage();
 		}
 	}
 }

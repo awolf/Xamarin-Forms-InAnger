@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InAnger.Droid", "Droid\InAn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageAssets", "ImageAssets\ImageAssets.csproj", "{A345FF3B-97EC-4C58-96BF-E3651A735177}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5C09212D-C56C-46A8-8D4F-A6922AF3D462}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -69,5 +74,7 @@ Global
 		{A345FF3B-97EC-4C58-96BF-E3651A735177}.Release|iPhone.Build.0 = Release|Any CPU
 		{A345FF3B-97EC-4C58-96BF-E3651A735177}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{A345FF3B-97EC-4C58-96BF-E3651A735177}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 EndGlobal
