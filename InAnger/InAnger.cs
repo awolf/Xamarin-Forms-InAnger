@@ -1,6 +1,8 @@
 ﻿using System;
 
 using Xamarin.Forms;
+using InAnger.PhoenixPeaks;
+using InAnger.Jobbberr;
 
 namespace InAnger
 {
@@ -10,7 +12,8 @@ namespace InAnger
 		{
 			
 			MainPage = 
-				new PhoenixPeaksPage ();
+				//new PhoenixPeaksPage ();
+				new JobbberrPage();
 		}
 	}
 }

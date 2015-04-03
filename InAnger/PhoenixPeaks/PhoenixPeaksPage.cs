@@ -2,7 +2,7 @@
 
 using Xamarin.Forms;
 
-namespace InAnger
+namespace InAnger.PhoenixPeaks
 {
 	public class PhoenixPeaksPage : ContentPage
 	{

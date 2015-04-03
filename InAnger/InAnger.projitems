@@ -11,8 +11,19 @@
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)InAnger.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)PhoenixPeaks\PhoenixPeaksPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Jobbberr\AppStyle.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Jobbberr\HomePage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Jobbberr\JobsNavigationPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Jobbberr\MasterPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Jobbberr\SettingsPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Jobbberr\SettingsSwitchView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Jobbberr\SettingsUserView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Jobbberr\StatusBarView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Jobbberr\SyncSliderView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Jobbberr\SyncView.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)PhoenixPeaks\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Jobbberr\" />
   </ItemGroup>
 </Project>
