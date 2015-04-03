@@ -1,5 +1,7 @@
 # Xamarin-Forms-InAnger
-Code project for the Xamarin.Forms in Anger series on www.SyntaxismyUI.com.
+Repository for the Xamarin.Forms in Anger series on www.SyntaxismyUI.com.
+
+https://www.syntaxismyui.com/category/xamarin-forms/inanger-xamarin-forms/
 
 Are you a skeptic of the promise of Xamarin.Forms? Do you believe that with Xamarin.Forms you can build native cross-platform UI’s with a single C# codebase? Early on I struggled with the choice of whether to use Xamarin.Forms or a combination of Xamarin.iOS and Xamarin.Android.
 
