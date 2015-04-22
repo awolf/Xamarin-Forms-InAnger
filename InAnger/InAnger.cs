@@ -10,8 +10,8 @@ namespace InAnger
 			
 			MainPage = 
 				//new InAnger.PhoenixPeaks.PhoenixPeaksPage ();
-				//new InAnger.Jobbberr.JobbberrPage();
-				InAnger.FindAVet.FindAVetApp.GetMainPage();
+				new InAnger.Jobbberr.JobbberrPage();
+				//InAnger.FindAVet.FindAVetApp.GetMainPage();
 		}
 	}
 }
