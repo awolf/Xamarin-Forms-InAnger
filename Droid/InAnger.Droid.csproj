@@ -96,6 +96,16 @@
     <AndroidResource Include="Resources\drawable-hdpi\settings.png" />
     <AndroidResource Include="Resources\drawable-xhdpi\settings.png" />
     <AndroidResource Include="Resources\drawable-xxhdpi\settings.png" />
+    <AndroidResource Include="Resources\drawable\dome.png" />
+    <AndroidResource Include="Resources\drawable\face.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\chat.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\pindrop.png" />
+    <AndroidResource Include="Resources\drawable\chat.png" />
+    <AndroidResource Include="Resources\drawable\pindrop.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\chat.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\pindrop.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\chat.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\pindrop.png" />
   </ItemGroup>
   <Import Project="..\InAnger\InAnger.projitems" Label="Shared" Condition="Exists('..\InAnger\InAnger.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />

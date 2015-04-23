@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="50px" viewBox="0 0 48 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>chat</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Alabama" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="chat" sketch:type="MSLayerGroup">
+            <g id="Group" transform="translate(1.000000, 1.000000)" stroke="#185082" stroke-width="2" sketch:type="MSShapeGroup">
+                <path d="M22.0386,10.9834 L22.0386,26.9398" id="Shape"></path>
+                <path d="M14.22,18.9616 L29.8572,18.9616" id="Shape"></path>
+                <path d="M12.2382,35.0292 C6.3582,33.6514 0.3862,26.8166 0.3862,18.0472 C0.3862,8.8894 7.4364,0.9962 15.6442,0.9962 L30.6858,0.9962 C38.8936,0.9962 45.5478,8.8386 45.5478,17.9964 C45.5478,27.059 38.8936,34.9962 30.6858,34.9962 L25.9478,34.9962 L12.2382,46.5562 L12.2382,35.0292 L12.2382,35.0292 Z" id="Shape"></path>
+            </g>
+            <rect id="Rectangle-path" sketch:type="MSShapeGroup" x="0" y="0.996" width="48" height="48"></rect>
+        </g>
+    </g>
+</svg>

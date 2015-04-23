@@ -124,6 +124,27 @@
     <BundleResource Include="Resources\settings%403x.png" />
     <BundleResource Include="Resources\icon40%402x.png" />
     <BundleResource Include="Resources\icon60%402x.png" />
+    <BundleResource Include="Resources\bama1.jpg" />
+    <BundleResource Include="Resources\bama2.jpg" />
+    <BundleResource Include="Resources\bama3.jpg" />
+    <BundleResource Include="Resources\bama4.jpg" />
+    <BundleResource Include="Resources\bama5.jpg" />
+    <BundleResource Include="Resources\bama6.jpg" />
+    <BundleResource Include="Resources\bama7.jpg" />
+    <BundleResource Include="Resources\bama8.jpg" />
+    <BundleResource Include="Resources\bama9.jpg" />
+    <BundleResource Include="Resources\dome.png" />
+    <BundleResource Include="Resources\dome%402x.png" />
+    <BundleResource Include="Resources\dome%403x.png" />
+    <BundleResource Include="Resources\face.png" />
+    <BundleResource Include="Resources\face%402x.png" />
+    <BundleResource Include="Resources\face%403x.png" />
+    <BundleResource Include="Resources\chat.png" />
+    <BundleResource Include="Resources\chat%402x.png" />
+    <BundleResource Include="Resources\chat%403x.png" />
+    <BundleResource Include="Resources\pindrop.png" />
+    <BundleResource Include="Resources\pindrop%402x.png" />
+    <BundleResource Include="Resources\pindrop%403x.png" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />

@@ -26,10 +26,14 @@
     <Compile Include="$(MSBuildThisFileDirectory)FindAVet\VetData.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)FindAVet\FindAVetPage.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)FindAVet\FindAVetApp.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Woofer\WooferPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Woofer\DetailsView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Woofer\SlideShowView.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)PhoenixPeaks\" />
     <Folder Include="$(MSBuildThisFileDirectory)Jobbberr\" />
     <Folder Include="$(MSBuildThisFileDirectory)FindAVet\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Woofer\" />
   </ItemGroup>
 </Project>

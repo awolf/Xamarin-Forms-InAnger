@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="28px" height="48px" viewBox="0 0 28 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>pindorp</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Alabama" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="pindorp" sketch:type="MSLayerGroup" transform="translate(-11.000000, 0.000000)">
+            <g id="Group" transform="translate(12.000000, 1.000000)" stroke="#185082" stroke-width="2" sketch:type="MSShapeGroup">
+                <path d="M25.8204,13.4558 C25.8204,20.546 12.9824,40.0548 12.9824,40.0548 C12.9824,40.0548 0.1444,20.546 0.1444,13.4558 C0.1444,6.3656 5.8922,0.6178 12.9824,0.6178 C20.0726,0.6178 25.8204,6.3656 25.8204,13.4558 L25.8204,13.4558 Z" id="Shape"></path>
+                <circle id="Oval" cx="12.9822" cy="12.054" r="3.963"></circle>
+                <path d="M18.9268,37.6954 C22.6156,38.4178 25.106,39.7918 25.106,41.369 C25.106,43.7026 19.6792,45.5866 12.9816,45.5866 C6.2852,45.5866 0.8592,43.7026 0.8592,41.369 C0.8592,39.7844 3.3722,38.405 7.0886,37.6854" id="Shape"></path>
+            </g>
+            <rect id="Rectangle-path" sketch:type="MSShapeGroup" x="0.9726" y="0.0002" width="48" height="48"></rect>
+        </g>
+    </g>
+</svg>

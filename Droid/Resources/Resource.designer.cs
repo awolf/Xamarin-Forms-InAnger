@@ -26,6 +26,8 @@ namespace InAnger.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Xamarin.Forms.Platform.Resource.String.ApplicationName = global::InAnger.Droid.Resource.String.ApplicationName;
+			global::Xamarin.Forms.Platform.Resource.String.Hello = global::InAnger.Droid.Resource.String.Hello;
 		}
 		
 		public partial class Attribute
@@ -45,16 +47,28 @@ namespace InAnger.Droid
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int icon = 2130837504;
+			public const int chat = 2130837504;
 			
 			// aapt resource value: 0x7f020001
-			public const int pin = 2130837505;
+			public const int dome = 2130837505;
 			
 			// aapt resource value: 0x7f020002
-			public const int settings = 2130837506;
+			public const int face = 2130837506;
 			
 			// aapt resource value: 0x7f020003
-			public const int southmountain = 2130837507;
+			public const int icon = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int pin = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int pindrop = 2130837509;
+			
+			// aapt resource value: 0x7f020006
+			public const int settings = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int southmountain = 2130837511;
 			
 			static Drawable()
 			{
@@ -62,6 +76,25 @@ namespace InAnger.Droid
 			}
 			
 			private Drawable()
+			{
+			}
+		}
+		
+		public partial class String
+		{
+			
+			// aapt resource value: 0x7f030001
+			public const int ApplicationName = 2130903041;
+			
+			// aapt resource value: 0x7f030000
+			public const int Hello = 2130903040;
+			
+			static String()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private String()
 			{
 			}
 		}

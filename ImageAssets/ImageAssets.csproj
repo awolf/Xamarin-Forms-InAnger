@@ -45,6 +45,8 @@
     <None Include="icon.svg" />
     <None Include="Icons\pin.svg" />
     <None Include="Icons\settings.svg" />
+    <None Include="Icons\chat.svg" />
+    <None Include="Icons\pindrop.svg" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Icons\" />
