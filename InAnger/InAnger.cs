@@ -12,7 +12,8 @@ namespace InAnger
 				//new InAnger.PhoenixPeaks.PhoenixPeaksPage ();
 				//new InAnger.Jobbberr.JobbberrPage();
 				//InAnger.FindAVet.FindAVetApp.GetMainPage();
-				new InAnger.Woofer.WooferPage();
+				//new InAnger.Woofer.WooferPage();
+				new InAnger.HeatMap.HeatMapApp().GetMainPage();
 		}
 	}
 }

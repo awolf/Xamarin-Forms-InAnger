@@ -29,11 +29,15 @@
     <Compile Include="$(MSBuildThisFileDirectory)Woofer\WooferPage.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Woofer\DetailsView.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Woofer\SlideShowView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HeatMap\AppStyles.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HeatMap\AppData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HeatMap\HeatMapApp.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)PhoenixPeaks\" />
     <Folder Include="$(MSBuildThisFileDirectory)Jobbberr\" />
     <Folder Include="$(MSBuildThisFileDirectory)FindAVet\" />
     <Folder Include="$(MSBuildThisFileDirectory)Woofer\" />
+    <Folder Include="$(MSBuildThisFileDirectory)HeatMap\" />
   </ItemGroup>
 </Project>
