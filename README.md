@@ -18,5 +18,7 @@ What can a design conscious developer do when faced with the possibility of a ba
 * Find a Vet
 * Phoenix Peaks
 * Jobbberr
+* Woofer
+* HeatMap
 
-![Xamarin.Forms in Anger picture strip] (https://www.SyntaxIsMyUI.com/wp-content/uploads/2015/04/InAnger-Strip-3.jpg)
+![Xamarin.Forms in Anger picture strip] (https://www.SyntaxIsMyUI.com/wp-content/uploads/2015/05/InAnger-Strip-5.jpg)
