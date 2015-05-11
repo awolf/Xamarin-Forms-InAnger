@@ -13,7 +13,8 @@ namespace InAnger
 				//new InAnger.Jobbberr.JobbberrPage();
 				//InAnger.FindAVet.FindAVetApp.GetMainPage();
 				//new InAnger.Woofer.WooferPage();
-				new InAnger.HeatMap.HeatMapApp().GetMainPage();
+				//new InAnger.HeatMap.HeatMapApp().GetMainPage();
+				new InAnger.HotSauce.HotSauceApp().GetMainPage();
 		}
 	}
 }

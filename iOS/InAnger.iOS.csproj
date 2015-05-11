@@ -145,6 +145,12 @@
     <BundleResource Include="Resources\pindrop.png" />
     <BundleResource Include="Resources\pindrop%402x.png" />
     <BundleResource Include="Resources\pindrop%403x.png" />
+    <BundleResource Include="Resources\Chipotle.png" />
+    <BundleResource Include="Resources\Garlic.png" />
+    <BundleResource Include="Resources\Habanero.png" />
+    <BundleResource Include="Resources\Jalapeno.png" />
+    <BundleResource Include="Resources\Overlay.png" />
+    <BundleResource Include="Resources\Tabasco.png" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />

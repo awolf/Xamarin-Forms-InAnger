@@ -32,6 +32,9 @@
     <Compile Include="$(MSBuildThisFileDirectory)HeatMap\AppStyles.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)HeatMap\AppData.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)HeatMap\HeatMapApp.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HotSauce\Sauce.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HotSauce\SaucePage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)HotSauce\HotSauceApp.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)PhoenixPeaks\" />
@@ -39,5 +42,6 @@
     <Folder Include="$(MSBuildThisFileDirectory)FindAVet\" />
     <Folder Include="$(MSBuildThisFileDirectory)Woofer\" />
     <Folder Include="$(MSBuildThisFileDirectory)HeatMap\" />
+    <Folder Include="$(MSBuildThisFileDirectory)HotSauce\" />
   </ItemGroup>
 </Project>

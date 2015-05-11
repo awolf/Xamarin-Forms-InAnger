@@ -77,25 +77,43 @@ namespace InAnger.Droid
 			public const int chat = 2130837513;
 			
 			// aapt resource value: 0x7f02000a
-			public const int dome = 2130837514;
+			public const int Chipotle = 2130837514;
 			
 			// aapt resource value: 0x7f02000b
-			public const int face = 2130837515;
+			public const int dome = 2130837515;
 			
 			// aapt resource value: 0x7f02000c
-			public const int icon = 2130837516;
+			public const int face = 2130837516;
 			
 			// aapt resource value: 0x7f02000d
-			public const int pin = 2130837517;
+			public const int Garlic = 2130837517;
 			
 			// aapt resource value: 0x7f02000e
-			public const int pindrop = 2130837518;
+			public const int Habanero = 2130837518;
 			
 			// aapt resource value: 0x7f02000f
-			public const int settings = 2130837519;
+			public const int icon = 2130837519;
 			
 			// aapt resource value: 0x7f020010
-			public const int southmountain = 2130837520;
+			public const int Jalapeno = 2130837520;
+			
+			// aapt resource value: 0x7f020011
+			public const int Overlay = 2130837521;
+			
+			// aapt resource value: 0x7f020012
+			public const int pin = 2130837522;
+			
+			// aapt resource value: 0x7f020013
+			public const int pindrop = 2130837523;
+			
+			// aapt resource value: 0x7f020014
+			public const int settings = 2130837524;
+			
+			// aapt resource value: 0x7f020015
+			public const int southmountain = 2130837525;
+			
+			// aapt resource value: 0x7f020016
+			public const int Tabasco = 2130837526;
 			
 			static Drawable()
 			{

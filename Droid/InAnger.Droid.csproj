@@ -115,6 +115,12 @@
     <AndroidResource Include="Resources\drawable\bama7.jpg" />
     <AndroidResource Include="Resources\drawable\bama8.jpg" />
     <AndroidResource Include="Resources\drawable\bama9.jpg" />
+    <AndroidResource Include="Resources\drawable\Chipotle.png" />
+    <AndroidResource Include="Resources\drawable\Garlic.png" />
+    <AndroidResource Include="Resources\drawable\Habanero.png" />
+    <AndroidResource Include="Resources\drawable\Jalapeno.png" />
+    <AndroidResource Include="Resources\drawable\Overlay.png" />
+    <AndroidResource Include="Resources\drawable\Tabasco.png" />
   </ItemGroup>
   <Import Project="..\InAnger\InAnger.projitems" Label="Shared" Condition="Exists('..\InAnger\InAnger.projitems')" />
   <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
