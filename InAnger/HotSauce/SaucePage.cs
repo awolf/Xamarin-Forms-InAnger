@@ -67,18 +67,6 @@ namespace InAnger.HotSauce
 			);
 
 			layout.Children.Add (
-				picture,
-				Constraint.Constant (0),
-				Constraint.Constant (0),
-				Constraint.RelativeToParent ((parent) => {
-					return parent.Width;
-				}),
-				Constraint.RelativeToParent ((parent) => {
-					return parent.Height * .5;
-				})
-			);
-
-			layout.Children.Add (
 				details,
 				Constraint.Constant (0),
 				Constraint.RelativeToParent ((parent) => {
