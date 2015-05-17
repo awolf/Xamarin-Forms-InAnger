@@ -20,5 +20,6 @@ What can a design conscious developer do when faced with the possibility of a ba
 * Jobbberr
 * Woofer
 * HeatMap
+* Hot Sauce
 
-![Xamarin.Forms in Anger picture strip] (https://www.SyntaxIsMyUI.com/wp-content/uploads/2015/05/InAnger-Strip-5.jpg)
+![Xamarin.Forms in Anger picture strip] (https://www.SyntaxIsMyUI.com/wp-content/uploads/2015/05/InAnger-Strip-6.jpg)
