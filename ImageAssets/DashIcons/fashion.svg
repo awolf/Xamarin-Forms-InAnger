@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="65px" height="65px" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>fashion</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mall-Dash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="fashion" sketch:type="MSLayerGroup">
+            <circle id="Oval-9" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="32.5" cy="32.5" r="32.5"></circle>
+            <g id="thin-0993_dress" transform="translate(13.000000, 12.000000)" sketch:type="MSShapeGroup">
+                <g id="Group" transform="translate(6.400000, 1.600000)" stroke="#000000" stroke-width="2">
+                    <path d="M16.54512,13.67168 L9.16912,13.67168 C8.17168,13.67168 7.29552,14.3344 7.024,15.29424 L1.19104,36.05136 L24.52304,36.05136 L18.69008,15.29424 C18.41872,14.3344 17.54256,13.67168 16.54512,13.67168 L16.54512,13.67168 Z" id="Shape"></path>
+                    <path d="M17.5648,5.03568 L16.50704,5.03568 C14.23824,5.92544 11.47888,5.92656 9.2072,5.03568 L8.14928,5.03568 C6.29664,5.03568 5.00768,6.87696 5.64176,8.6176 L6.9488,12.20544 C7.26944,13.08592 8.1064,13.67152 9.04336,13.67152 L16.67056,13.67152 C17.60752,13.67152 18.44448,13.08592 18.76528,12.20544 L20.07216,8.61776 C20.7064,6.87696 19.41744,5.03568 17.5648,5.03568 L17.5648,5.03568 Z" id="Shape"></path>
+                    <path d="M8.82272,5.03568 L8.82272,0.05504" id="Shape"></path>
+                    <path d="M16.82272,5.03568 L16.82272,0.05504" id="Shape"></path>
+                    <path d="M12.064,28.16416 L12.064,23.29376" id="Shape"></path>
+                    <path d="M7.47744,32.13632 L9.468,19.22448" id="Shape"></path>
+                </g>
+                <rect id="Rectangle-path" x="0.02272" y="0.05504" width="38.4" height="38.4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -20,3 +20,14 @@
 { type: 'iosIcon', width: 90, path: 'iOS/Resources/{0}@3x' }
 
 { process: 'Icons/*.svg', as: ['androidIcon', 'iosIcon'] }        
+
+{ type: 'androidDashIcon', width: 130, path: 'Droid/Resources/drawable/{0}' }
+{ type: 'androidDashIcon', width: 65, path: 'Droid/Resources/drawable-hdpi/{0}' }
+{ type: 'androidDashIcon', width: 130, path: 'Droid/Resources/drawable-xhdpi/{0}' }
+{ type: 'androidDashIcon', width: 195, path: 'Droid/Resources/drawable-xxhdpi/{0}' }
+
+{ type: 'iosDashIcon', width: 65, path: 'iOS/Resources/{0}' } 
+{ type: 'iosDashIcon', width: 130, path: 'iOS/Resources/{0}@2x' }
+{ type: 'iosDashIcon', width: 195, path: 'iOS/Resources/{0}@3x' }
+
+{ process: 'DashIcons/*.svg', as: ['androidDashIcon', 'iosDashIcon'] }  

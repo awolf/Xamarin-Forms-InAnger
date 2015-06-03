@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="65px" height="65px" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>services</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mall-Dash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="services" sketch:type="MSLayerGroup">
+            <circle id="Oval-9-Copy-9" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="32.5" cy="32.5" r="32.5"></circle>
+            <g id="thin-0551_information_about" transform="translate(11.500000, 13.500000)" sketch:type="MSShapeGroup">
+                <g id="Group" transform="translate(1.600000, 0.000000)" stroke="#000000" stroke-width="2">
+                    <path d="M19.17648,0.90496 C9.10016,0.90496 0.90336,9.10176 0.90336,19.17808 C0.90336,29.2544 9.10032,37.45264 19.17648,37.45264 C29.25264,37.45264 37.4496,29.2544 37.4496,19.17808 C37.4496,9.10176 29.25264,0.90496 19.17648,0.90496 L19.17648,0.90496 Z" id="Shape"></path>
+                    <circle id="Oval" cx="19.18112" cy="9.59936" r="3.96368"></circle>
+                    <path d="M24.80176,31.1768 L15.0856,31.1768 C13.29616,31.1768 13.36192,28.07056 15.0856,28.07056 L17.00624,28.07056 L17.00624,19.85824 L15.0856,19.85824 C13.31024,19.85824 13.34816,16.752 15.0856,16.752 L22.83088,16.752 C23.09296,16.752 23.30624,16.96768 23.30624,17.23264 L23.30624,28.07072 L24.80176,28.07072 C26.52496,28.07056 26.5856,31.1768 24.80176,31.1768 L24.80176,31.1768 Z" id="Shape"></path>
+                </g>
+                <rect id="Rectangle-path" x="1.57808" y="0.00032" width="38.4" height="38.4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

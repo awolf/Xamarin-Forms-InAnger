@@ -47,8 +47,21 @@
     <None Include="Icons\settings.svg" />
     <None Include="Icons\chat.svg" />
     <None Include="Icons\pindrop.svg" />
+    <None Include="DashIcons\accessories.svg" />
+    <None Include="DashIcons\children.svg" />
+    <None Include="DashIcons\fashion.svg" />
+    <None Include="DashIcons\food.svg" />
+    <None Include="DashIcons\gifts.svg" />
+    <None Include="DashIcons\hours.svg" />
+    <None Include="DashIcons\housewares.svg" />
+    <None Include="DashIcons\luggage.svg" />
+    <None Include="DashIcons\restrooms.svg" />
+    <None Include="DashIcons\services.svg" />
+    <None Include="DashIcons\shoes.svg" />
+    <None Include="DashIcons\vending.svg" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Icons\" />
+    <Folder Include="DashIcons\" />
   </ItemGroup>
 </Project>

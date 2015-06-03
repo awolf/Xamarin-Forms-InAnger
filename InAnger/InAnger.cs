@@ -14,7 +14,8 @@ namespace InAnger
 				//InAnger.FindAVet.FindAVetApp.GetMainPage();
 				//new InAnger.Woofer.WooferPage();
 				//new InAnger.HeatMap.HeatMapApp().GetMainPage();
-				new InAnger.HotSauce.HotSauceApp().GetMainPage();
+				//new InAnger.HotSauce.HotSauceApp().GetMainPage();
+				new InAnger.MallDash.MallDashApp().GetMainPage();
 		}
 	}
 }

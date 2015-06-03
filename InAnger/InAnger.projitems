@@ -35,6 +35,11 @@
     <Compile Include="$(MSBuildThisFileDirectory)HotSauce\Sauce.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)HotSauce\SaucePage.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)HotSauce\HotSauceApp.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MallDash\MallDashPage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MallDash\DashWidgetView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MallDash\DashSquare.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MallDash\MallDashApp.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MallDash\DashData.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)PhoenixPeaks\" />
@@ -43,5 +48,6 @@
     <Folder Include="$(MSBuildThisFileDirectory)Woofer\" />
     <Folder Include="$(MSBuildThisFileDirectory)HeatMap\" />
     <Folder Include="$(MSBuildThisFileDirectory)HotSauce\" />
+    <Folder Include="$(MSBuildThisFileDirectory)MallDash\" />
   </ItemGroup>
 </Project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="65px" height="65px" viewBox="0 0 65 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>gifts</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Mall-Dash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="gifts" sketch:type="MSLayerGroup">
+            <circle id="Oval-9-Copy-2" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="32.5" cy="32.5" r="32.5"></circle>
+            <g id="thin-0447_gift_wrapping" transform="translate(12.500000, 13.300000)" sketch:type="MSShapeGroup">
+                <g id="Group" transform="translate(4.800000, 0.000000)" stroke="#000000" stroke-width="2">
+                    <path d="M2.43376,23.0984 L2.43376,37.53536 L29.51792,37.53536 L29.51792,23.0984" id="Shape"></path>
+                    <path d="M18.5584,20.00496 L31.22336,20.00496 L31.22336,12.0472 L0.72928,12.0472 L0.72928,20.00496 L13.54192,20.00496" id="Shape"></path>
+                    <path d="M15.96224,12.0472 C15.96224,12.0472 1.48672,6.49984 7.45712,1.80944 C13.07152,-2.60144 15.96224,12.0472 15.96224,12.0472 L15.96224,12.0472 Z" id="Shape"></path>
+                    <path d="M15.96224,12.0472 C15.96224,12.0472 18.13616,-0.476 23.23792,3.10192 C28.0336,6.46544 15.96224,12.0472 15.96224,12.0472 L15.96224,12.0472 Z" id="Shape"></path>
+                    <rect id="Rectangle-path" x="13.54192" y="12.0472" width="5.01648" height="25.488"></rect>
+                </g>
+                <rect id="Rectangle-path" x="1.57824" y="0" width="38.4" height="38.4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
