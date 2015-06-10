@@ -109,7 +109,7 @@ namespace InAnger
 		{
 			Content = new StackLayout { 
 				Children = {
-					new Label { Text = "Page 1" }
+					new Label { Text = "Page 10" }
 				}
 			};
 		}
