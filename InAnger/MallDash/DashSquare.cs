@@ -18,5 +18,7 @@ namespace InAnger.MallDash
 		public int Column { get; set; }
 
 		public int Row { get; set; }
+
+		public Type NavigateType { get; set; }
 	}
 }

@@ -40,6 +40,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)MallDash\DashSquare.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)MallDash\MallDashApp.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)MallDash\DashData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MallDash\WidgetTappedEventArgs.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MallDash\Page1.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)PhoenixPeaks\" />

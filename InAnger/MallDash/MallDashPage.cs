@@ -31,7 +31,16 @@ namespace InAnger.MallDash
 
 			var squares = DashData.GetDashData ();
 
-			squares.ForEach (x => dashboard.Children.Add (new DashWidgetView (x), x.Column, x.Row));
+			squares.ForEach (x => 
+				{
+					var widget = new DashWidgetView (x);
+					widget.Tapped += (object sender, WidgetTappedEventArgs e) => {
+						var page =  Activator.CreateInstance(e.Page) as Page;
+						Navigation.PushAsync(page);
+					};
+					dashboard.Children.Add (widget, x.Column, x.Row);
+				}
+			);
 
 			Content = dashboard;
 		}
