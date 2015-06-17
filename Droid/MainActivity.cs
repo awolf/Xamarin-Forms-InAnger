@@ -18,8 +18,10 @@ namespace InAnger.Droid
 		{
 			base.OnCreate (bundle);
 
+			Xamarin.FormsMaps.Init(this, bundle);
 			global::Xamarin.Forms.Forms.Init (this, bundle);
 			ImageCircleRenderer.Init();
+
 			LoadApplication (new App ());
 		}
 	}

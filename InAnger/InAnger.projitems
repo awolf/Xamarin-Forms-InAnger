@@ -42,6 +42,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)MallDash\DashData.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)MallDash\WidgetTappedEventArgs.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)MallDash\Pages.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Findr\FindrApp.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Findr\FindrMapPage.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)PhoenixPeaks\" />
@@ -51,5 +53,6 @@
     <Folder Include="$(MSBuildThisFileDirectory)HeatMap\" />
     <Folder Include="$(MSBuildThisFileDirectory)HotSauce\" />
     <Folder Include="$(MSBuildThisFileDirectory)MallDash\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Findr\" />
   </ItemGroup>
 </Project>

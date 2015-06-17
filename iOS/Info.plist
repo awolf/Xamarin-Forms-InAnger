@@ -48,6 +48,10 @@
 		<string>icon60@2x</string>
 		<string>icon40@2x</string>
 	</array>
+	<key>NSLocationAlwaysUsageDescription</key>
+    <string>Can we use your location</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+    <string>We are using your location</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIStatusBarStyle</key>

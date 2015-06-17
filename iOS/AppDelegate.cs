@@ -13,12 +13,13 @@ namespace InAnger.iOS
 	{
 		public override bool FinishedLaunching (UIApplication app, NSDictionary options)
 		{
+			Xamarin.FormsMaps.Init();
 			global::Xamarin.Forms.Forms.Init ();
 			ImageCircleRenderer.Init ();
+
 			LoadApplication (new App ());
 
 			return base.FinishedLaunching (app, options);
 		}
 	}
 }
-
