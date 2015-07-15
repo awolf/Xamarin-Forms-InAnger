@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{FDCA3D2C-3528-45F8-9CFB-4D6531896755}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Cards</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Cards.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CardView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Card.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CardStatusView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IconLabelView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ConfigIconView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CardDetailsView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CardData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DateTimeView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Xinions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)StyleKit.cs" />
+  </ItemGroup>
+</Project>
