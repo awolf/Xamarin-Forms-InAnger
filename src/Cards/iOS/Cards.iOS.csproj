@@ -121,6 +121,9 @@
     <BundleResource Include="Resources\Clockmini.png" />
     <BundleResource Include="Resources\Clockmini%402x.png" />
     <BundleResource Include="Resources\Clockmini%403x.png" />
+    <BundleResource Include="Resources\Shadow-0-2-4-0.png" />
+    <BundleResource Include="Resources\Shadow-0-2-4-0%402x.png" />
+    <BundleResource Include="Resources\Shadow-0-2-4-0%403x.png" />
   </ItemGroup>
   <ItemGroup>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />

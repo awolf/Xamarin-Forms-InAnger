@@ -20,5 +20,6 @@
     <Compile Include="$(MSBuildThisFileDirectory)DateTimeView.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Xinions.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)StyleKit.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ShadowCardView.cs" />
   </ItemGroup>
 </Project>

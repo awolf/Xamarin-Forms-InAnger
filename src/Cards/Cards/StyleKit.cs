@@ -29,6 +29,9 @@ namespace Cards
 			public static FileImageSource Cog = new FileImageSource () { File = "Config.png" };
 			public static FileImageSource SmallCalendar = new FileImageSource () { File = "Calendarmini.png" };
 			public static FileImageSource SmallClock = new FileImageSource () { File = "Clockmini.png" };
+
+			public static FileImageSource Shadow0240 = new FileImageSource () { File = "Shadow-0-2-4-0.png" };
+
 		}
 	}
 }
